@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.1.2 concept-map (pieuvre.vue) 2012-11-05 -->
+<!-- Tufts VUE 3.1.2 concept-map (pieuvre.vue) 2012-11-06 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Mon Nov 05 18:58:30 GMT-06:00 2012 by Administrateur on platform Windows XP 5.1 in JVM 1.6.0_29-b11 -->
+<!-- Do Not Remove: Saved date Tue Nov 06 22:06:56 CST 2012 by RapidOs on platform Windows 7 6.1 in JVM 1.6.0_29-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built March 8 2012 at 1310 by vue on Linux 2.4.21-63.EL i386 JVM 1.5.0_06-b05(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="pieuvre.vue"
     created="1352136406234" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1352163510718" size="19324"
-        spec="K:\Workspaces\Git\projets\bar_2013_ba4\doc\pieuvre.vue"
+    <resource referenceCreated="1352261216200" size="20442"
+        spec="I:\Workspaces\Git\projets\bar_2013_ba4\doc\pieuvre.vue"
         type="1" xsi:type="URLResource">
         <title>pieuvre.vue</title>
-        <property key="File" value="K:\Workspaces\Git\projets\bar_2013_ba4\doc\pieuvre.vue"/>
+        <property key="File" value="I:\Workspaces\Git\projets\bar_2013_ba4\doc\pieuvre.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -143,12 +143,12 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="33" label="FS1" layerID="1" created="1352162383859"
-        x="233.5" y="265.93207" width="105.456635" height="122.56793"
+        x="233.5" y="264.77286" width="118.65991" height="123.72714"
         strokeWidth="3.0" autoSized="false" controlCount="1"
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -160,17 +160,17 @@
         </metadata-list>
         <URIString>http://vue.tufts.edu/rdf/resource/d33747f5c0a80006009875a31988143c</URIString>
         <point1 x="235.0" y="387.0"/>
-        <point2 x="262.82657" y="267.43207"/>
+        <point2 x="263.30637" y="266.27286"/>
         <ID2 xsi:type="node">23</ID2>
-        <ctrlPoint0 x="409.0" y="305.0" xsi:type="point"/>
+        <ctrlPoint0 x="425.16666" y="304.83334" xsi:type="point"/>
     </child>
     <child ID="34" label="FS2" layerID="1" created="1352162443406"
-        x="263.5" y="201.05518" width="120.118225" height="76.58362"
+        x="263.5" y="201.05518" width="120.118225" height="79.08362"
         strokeWidth="3.0" autoSized="false" controlCount="1"
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -186,13 +186,13 @@
         <ID1 xsi:type="node">27</ID1>
         <ctrlPoint0 x="369.0" y="322.0" xsi:type="point"/>
     </child>
-    <child ID="36" label="C4" layerID="1" created="1352162517093"
+    <child ID="36" label="C6" layerID="1" created="1352162517093"
         x="409.76184" y="339.68228" width="50.47632" height="57.635437"
         strokeWidth="3.0" autoSized="false" controlCount="0"
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -208,13 +208,13 @@
         <ID1 xsi:type="node">22</ID1>
         <ID2 xsi:type="node">26</ID2>
     </child>
-    <child ID="37" label="C3" layerID="1" created="1352162800609"
-        x="435.653" y="253.16193" width="56.69394" height="21.676163"
-        strokeWidth="3.0" autoSized="false" controlCount="0"
+    <child ID="37" label="C4, C5" layerID="1" created="1352162800609"
+        x="411.88397" y="210.58722" width="77.65558" height="42.83319"
+        strokeWidth="3.0" autoSized="false" controlCount="1"
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -225,10 +225,11 @@
             </metadata>
         </metadata-list>
         <URIString>http://vue.tufts.edu/rdf/resource/d3374805c0a80006009875a3f1c6181b</URIString>
-        <point1 x="437.153" y="273.33807"/>
-        <point2 x="490.84695" y="254.66191"/>
+        <point1 x="413.38397" y="251.92041"/>
+        <point2 x="488.03955" y="214.89122"/>
         <ID1 xsi:type="node">22</ID1>
         <ID2 xsi:type="node">24</ID2>
+        <ctrlPoint0 x="455.7746" y="206.76865" xsi:type="point"/>
     </child>
     <child ID="38" label="C1" layerID="1" created="1352162891031"
         x="299.15454" y="341.15082" width="38.69095" height="49.698395"
@@ -236,7 +237,7 @@
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -252,13 +253,13 @@
         <ID1 xsi:type="node">22</ID1>
         <ID2 xsi:type="node">25</ID2>
     </child>
-    <child ID="39" label="C2" layerID="1" created="1352162986437"
-        x="389.27588" y="200.5" width="18.224121" height="45.09021"
+    <child ID="39" label="C3" layerID="1" created="1352162986437"
+        x="387.88794" y="200.5" width="21.0" height="45.09021"
         strokeWidth="3.0" autoSized="false" controlCount="0"
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -279,7 +280,7 @@
         arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
+        <font>Arial-plain-16</font>
         <metadata-list category-list-size="1" other-list-size="0"
             ontology-list-size="0" RCategoryListSize="0">
             <ontology-list-string></ontology-list-string>
@@ -294,6 +295,28 @@
         <point2 x="426.0" y="194.0"/>
         <ctrlPoint0 x="352.0" y="347.0" xsi:type="point"/>
     </child>
+    <child ID="42" label="C2" layerID="1" created="1352260625069"
+        x="241.3823" y="288.5584" width="67.61771" height="34.94159"
+        strokeWidth="3.0" autoSized="false" controlCount="1"
+        arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-16</font>
+        <metadata-list category-list-size="1" other-list-size="0"
+            ontology-list-size="0" RCategoryListSize="0">
+            <ontology-list-string></ontology-list-string>
+            <metadata xsi:type="vue-metadata-element">
+                <value></value>
+                <key>http://vue.tufts.edu/vue.rdfs#none</key>
+                <type>1</type>
+            </metadata>
+        </metadata-list>
+        <URIString>http://vue.tufts.edu/rdf/resource/d90c3383c0a8000601bc345a1dab98a0</URIString>
+        <point1 x="307.5" y="322.0"/>
+        <point2 x="242.8823" y="290.0584"/>
+        <ID2 xsi:type="node">23</ID2>
+        <ctrlPoint0 x="271.5" y="314.0" xsi:type="point"/>
+    </child>
     <layer ID="1" label="Layer 1" created="1352136406234" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <metadata-list category-list-size="0" other-list-size="0"
@@ -302,13 +325,13 @@
         </metadata-list>
         <URIString>http://vue.tufts.edu/rdf/resource/d30ee101c0a80006009875a364169842</URIString>
     </layer>
-    <userZoom>1.0</userZoom>
-    <userOrigin x="-12.0" y="-12.0"/>
+    <userZoom>1.5</userZoom>
+    <userOrigin x="169.75" y="127.75"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Chemin sans nom" created="1352136406234"
             x="0.0" y="0.0" width="1.4E-45" height="1.4E-45"
-            strokeWidth="0.0" autoSized="false" currentIndex="-1" open="true">
+            strokeWidth="0.0" autoSized="false" currentIndex="0" open="true">
             <strokeColor>#B3CC33CC</strokeColor>
             <textColor>#000000</textColor>
             <font>SansSerif-plain-14</font>
@@ -376,6 +399,6 @@
     <date>2012-11-05</date>
     <mapFilterModel/>
     <modelVersion>5</modelVersion>
-    <saveLocation>K:\Workspaces\Git\projets\bar_2013_ba4\doc</saveLocation>
-    <saveFile>K:\Workspaces\Git\projets\bar_2013_ba4\doc\pieuvre.vue</saveFile>
+    <saveLocation>I:\Workspaces\Git\projets\bar_2013_ba4\doc</saveLocation>
+    <saveFile>I:\Workspaces\Git\projets\bar_2013_ba4\doc\pieuvre.vue</saveFile>
 </LW-MAP>
