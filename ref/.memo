@@ -1,0 +1,5 @@
+https://bytefreaks.net/gnulinux/bash/how-to-add-automatically-all-empty-folders-in-git-repository
+
+A way to achieve this automatically, and place a copy of the .gitkeep file in every empty folder would be to use the following command to create an empty .gitkeep file in all empty folders.
+
+find $PATH_TO_REPOSITORY -type d ! -path "*.git*" -empty -exec touch '{}'/.gitkeep \;
